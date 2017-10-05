@@ -1,0 +1,44 @@
+body {
+  background-color: #fff;
+  font-family: "Roboto";
+}
+
+.container {
+  width:800px;
+  margin:50px auto;
+  padding: 20px;
+  width: 50%;
+}
+
+#quoteBox {
+  text-align: center;
+  margin: 30px auto;
+  height: 50px;
+  padding: 10px;
+}
+
+#buttonDiv {
+  text-align: center;
+}
+.container h1 {
+  text-align: center;
+  color: #045;
+}
+
+a {
+  width: 100px;
+  border: 2px solid #09c;
+  padding: 5px;
+  font-family: inherit;
+  font-weight: 700;
+  margin-top: 10px;
+  color: #045;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
+
+a:hover {
+  background: #09c;
+  color: #fff;
+}
